@@ -17,8 +17,11 @@ El proyecto incluye:
 
 ## Estructura
 ros2_ws/
+
 └── src/
+
 ├── turtle_bot_5
+
 └── turtle_bot_5_interfaces
 
 
